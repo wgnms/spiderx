@@ -1,6 +1,5 @@
 package pandas
 import (
-	"github.com/go-gota/gota"
 	"github.com/go-gota/gota/series"
 	"github.com/go-gota/gota/dataframe"
 	"fmt"
