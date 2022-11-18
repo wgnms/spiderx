@@ -1,7 +1,6 @@
 package qt
 
-import (
-	"github.com/therecipe/qt"		
+import (	
 	"github.com/therecipe/qt/core"
 	"github.com/therecipe/qt/widgets"
 	"os"
