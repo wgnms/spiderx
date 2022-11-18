@@ -14,5 +14,5 @@ func Test() {
 		series.New([]bool{true, false, true, true, false}, series.Bool, "state"),
 	)
 	fmt.Println(dataFrame)
-	fmt.Println(gota)
+	
 }
