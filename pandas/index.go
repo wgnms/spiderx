@@ -6,7 +6,6 @@ import (
 )
 func Test() {
 	series.New([]string{"z", "y", "d", "e"}, series.String, "col")
-
 	dataFrame := dataframe.New(
 		series.New([]string{"a", "b", "c", "d", "e"}, series.String, "alphas"),
 		series.New([]int{5, 4, 2, 3, 1}, series.Int, "numbers"),
