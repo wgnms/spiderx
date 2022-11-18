@@ -4,7 +4,6 @@ import (
 	"github.com/go-gota/gota/dataframe"
 	"fmt"
 )
-
 func Test() {
 	series.New([]string{"z", "y", "d", "e"}, series.String, "col")
 
